@@ -1,0 +1,10 @@
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.MVVM\bin\Debug\Sample.MVVM.dll
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.MVVM\bin\Debug\Sample.MVVM.pdb
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.MVVM\obj\Debug\Sample.MVVM.csproj.AssemblyReference.cache
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.MVVM\obj\Debug\Sample.MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.MVVM\obj\Debug\Sample.MVVM.csproj.CoreCompileInputs.cache
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.MVVM\obj\Debug\Sample.MVVM.dll
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.MVVM\obj\Debug\Sample.MVVM.pdb
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.MVVM\bin\Debug\PropertyChanged.dll
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.MVVM\bin\Debug\PropertyChanged.xml
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.MVVM\obj\Debug\Sample.MVVM.csproj.CopyComplete

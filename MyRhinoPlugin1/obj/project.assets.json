@@ -1,0 +1,258 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "HandyControl/3.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net48/HandyControl.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net48/HandyControl.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "RhinoCommon/7.31.23166.15001": {
+        "type": "package",
+        "compile": {
+          "lib/net48/Eto.dll": {
+            "related": ".xml"
+          },
+          "lib/net48/Rhino.UI.dll": {},
+          "lib/net48/RhinoCommon.dll": {
+            "related": ".XML"
+          }
+        },
+        "runtime": {
+          "lib/net48/_._": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/net48/RhinoCommon.targets": {}
+        }
+      },
+      "Sample.Desktop/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Sample.UI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sample.Desktop.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sample.Desktop.dll": {}
+        }
+      },
+      "Sample.MVVM/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Sample.MVVM.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sample.MVVM.dll": {}
+        }
+      },
+      "Sample.UI/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Sample.MVVM": "1.0.0",
+          "Sample.ViewModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sample.UI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sample.UI.dll": {}
+        }
+      },
+      "Sample.ViewModels/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Sample.MVVM": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sample.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sample.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HandyControl/3.4.0": {
+      "sha512": "MgD5lxIm23oCv3+mFWH6EARLCOmR/spFaWeb813QtUDIQeUsbGK02xm1xDQEd0UGBcba6aho1FgCtiU4q7hHDw==",
+      "type": "package",
+      "path": "handycontrol/3.4.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "handycontrol.3.4.0.nupkg.sha512",
+        "handycontrol.nuspec",
+        "icon.png",
+        "lib/net40/HandyControl.dll",
+        "lib/net40/HandyControl.xml",
+        "lib/net45/HandyControl.dll",
+        "lib/net45/HandyControl.xml",
+        "lib/net451/HandyControl.dll",
+        "lib/net451/HandyControl.xml",
+        "lib/net452/HandyControl.dll",
+        "lib/net452/HandyControl.xml",
+        "lib/net46/HandyControl.dll",
+        "lib/net46/HandyControl.xml",
+        "lib/net461/HandyControl.dll",
+        "lib/net461/HandyControl.xml",
+        "lib/net462/HandyControl.dll",
+        "lib/net462/HandyControl.xml",
+        "lib/net47/HandyControl.dll",
+        "lib/net47/HandyControl.xml",
+        "lib/net471/HandyControl.dll",
+        "lib/net471/HandyControl.xml",
+        "lib/net472/HandyControl.dll",
+        "lib/net472/HandyControl.xml",
+        "lib/net48/HandyControl.dll",
+        "lib/net48/HandyControl.xml",
+        "lib/net481/HandyControl.dll",
+        "lib/net481/HandyControl.xml",
+        "lib/net5.0/HandyControl.deps.json",
+        "lib/net5.0/HandyControl.dll",
+        "lib/net5.0/HandyControl.xml",
+        "lib/net6.0/HandyControl.deps.json",
+        "lib/net6.0/HandyControl.dll",
+        "lib/net6.0/HandyControl.xml",
+        "lib/net7.0/HandyControl.deps.json",
+        "lib/net7.0/HandyControl.dll",
+        "lib/net7.0/HandyControl.xml",
+        "lib/netcoreapp3.0/HandyControl.deps.json",
+        "lib/netcoreapp3.0/HandyControl.dll",
+        "lib/netcoreapp3.0/HandyControl.xml",
+        "lib/netcoreapp3.1/HandyControl.deps.json",
+        "lib/netcoreapp3.1/HandyControl.dll",
+        "lib/netcoreapp3.1/HandyControl.xml",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    },
+    "RhinoCommon/7.31.23166.15001": {
+      "sha512": "iGSk1/lJEhRI8m59kxiBOZk9kVd12mSu0T3+lhaiAZeVWVZHxY4gIS7qfvg8poZ/VoUMbHgylOBLa3iyJ6WETg==",
+      "type": "package",
+      "path": "rhinocommon/7.31.23166.15001",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Eto-LICENSE.txt",
+        "build/net48/RhinoCommon.targets",
+        "lib/net48/Eto.dll",
+        "lib/net48/Eto.xml",
+        "lib/net48/Rhino.UI.dll",
+        "lib/net48/RhinoCommon.XML",
+        "lib/net48/RhinoCommon.dll",
+        "rhinocommon.7.31.23166.15001.nupkg.sha512",
+        "rhinocommon.nuspec",
+        "rhinocommon.png"
+      ]
+    },
+    "Sample.Desktop/1.0.0": {
+      "type": "project",
+      "path": "../Sample.Desktop/Sample.Desktop.csproj",
+      "msbuildProject": "../Sample.Desktop/Sample.Desktop.csproj"
+    },
+    "Sample.MVVM/1.0.0": {
+      "type": "project",
+      "path": "../Sample.MVVM/Sample.MVVM.csproj",
+      "msbuildProject": "../Sample.MVVM/Sample.MVVM.csproj"
+    },
+    "Sample.UI/1.0.0": {
+      "type": "project",
+      "path": "../Sample.UI/Sample.UI.csproj",
+      "msbuildProject": "../Sample.UI/Sample.UI.csproj"
+    },
+    "Sample.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../Sample.ViewModels/Sample.ViewModels.csproj",
+      "msbuildProject": "../Sample.ViewModels/Sample.ViewModels.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "HandyControl >= 3.4.0",
+      "RhinoCommon >= 7.31.23166.15001",
+      "Sample.Desktop >= 1.0.0",
+      "Sample.MVVM >= 1.0.0",
+      "Sample.ViewModels >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\19814\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\MyRhinoPlugin1\\MyRhinoPlugin1.csproj",
+      "projectName": "MyRhinoPlugin1",
+      "projectPath": "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\MyRhinoPlugin1\\MyRhinoPlugin1.csproj",
+      "packagesPath": "C:\\Users\\19814\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\MyRhinoPlugin1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\19814\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {
+            "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\Sample.Desktop\\Sample.Desktop.csproj": {
+              "projectPath": "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\Sample.Desktop\\Sample.Desktop.csproj"
+            },
+            "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\Sample.MVVM\\Sample.MVVM.csproj": {
+              "projectPath": "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\Sample.MVVM\\Sample.MVVM.csproj"
+            },
+            "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\Sample.ViewModels\\Sample.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\Sample.ViewModels\\Sample.ViewModels.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "dependencies": {
+          "HandyControl": {
+            "target": "Package",
+            "version": "[3.4.0, )"
+          },
+          "RhinoCommon": {
+            "include": "Compile, Build",
+            "target": "Package",
+            "version": "[7.31.23166.15001, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/9VkwccX7Zyf0t1pq/rEhoaS6outzYNcuR8KZBG5tSVOpMWrA3+1XaPvvlnci+v1M2OLQB0LemWIajUfMjVjvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\MyRhinoPlugin1\\MyRhinoPlugin1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\19814\\.nuget\\packages\\handycontrol\\3.4.0\\handycontrol.3.4.0.nupkg.sha512",
+    "C:\\Users\\19814\\.nuget\\packages\\rhinocommon\\7.31.23166.15001\\rhinocommon.7.31.23166.15001.nupkg.sha512"
+  ],
+  "logs": []
+}

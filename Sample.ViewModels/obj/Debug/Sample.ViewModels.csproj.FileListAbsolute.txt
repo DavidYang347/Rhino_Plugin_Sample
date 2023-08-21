@@ -1,0 +1,12 @@
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.ViewModels\bin\Debug\Sample.ViewModels.dll
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.ViewModels\bin\Debug\Sample.ViewModels.pdb
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.ViewModels\bin\Debug\Sample.MVVM.dll
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.ViewModels\bin\Debug\Sample.MVVM.pdb
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.ViewModels\obj\Debug\Sample.ViewModels.csproj.AssemblyReference.cache
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.ViewModels\obj\Debug\Sample.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.ViewModels\obj\Debug\Sample.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.ViewModels\obj\Debug\Sample.ViewModels.csproj.CopyComplete
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.ViewModels\obj\Debug\Sample.ViewModels.dll
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.ViewModels\obj\Debug\Sample.ViewModels.pdb
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.ViewModels\bin\Debug\PropertyChanged.dll
+C:\Users\19814\Desktop\C#Plugin\Rhino_Plugin_Sample\Sample.ViewModels\bin\Debug\PropertyChanged.xml
