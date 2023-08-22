@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Desktop", "Sample.De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyRhinoPlugin1", "MyRhinoPlugin1\MyRhinoPlugin1.csproj", "{FB6322C1-061E-47E0-8C53-B61239BA2FF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfSample", "WpfSample\WpfSample.csproj", "{B1F3084C-061A-4473-9990-06269B201099}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FB6322C1-061E-47E0-8C53-B61239BA2FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB6322C1-061E-47E0-8C53-B61239BA2FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB6322C1-061E-47E0-8C53-B61239BA2FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F3084C-061A-4473-9990-06269B201099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F3084C-061A-4473-9990-06269B201099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F3084C-061A-4473-9990-06269B201099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F3084C-061A-4473-9990-06269B201099}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

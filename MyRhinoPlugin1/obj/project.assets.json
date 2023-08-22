@@ -194,11 +194,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\MyRhinoPlugin1\\MyRhinoPlugin1.csproj",
+      "projectUniqueName": "C:\\Users\\19814\\Desktop\\GithubFile\\Rhino_Plugin_Sample\\MyRhinoPlugin1\\MyRhinoPlugin1.csproj",
       "projectName": "MyRhinoPlugin1",
-      "projectPath": "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\MyRhinoPlugin1\\MyRhinoPlugin1.csproj",
+      "projectPath": "C:\\Users\\19814\\Desktop\\GithubFile\\Rhino_Plugin_Sample\\MyRhinoPlugin1\\MyRhinoPlugin1.csproj",
       "packagesPath": "C:\\Users\\19814\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\MyRhinoPlugin1\\obj\\",
+      "outputPath": "C:\\Users\\19814\\Desktop\\GithubFile\\Rhino_Plugin_Sample\\MyRhinoPlugin1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -219,14 +219,14 @@
         "net48": {
           "targetAlias": "net48",
           "projectReferences": {
-            "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\Sample.Desktop\\Sample.Desktop.csproj": {
-              "projectPath": "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\Sample.Desktop\\Sample.Desktop.csproj"
+            "C:\\Users\\19814\\Desktop\\GithubFile\\Rhino_Plugin_Sample\\Sample.Desktop\\Sample.Desktop.csproj": {
+              "projectPath": "C:\\Users\\19814\\Desktop\\GithubFile\\Rhino_Plugin_Sample\\Sample.Desktop\\Sample.Desktop.csproj"
             },
-            "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\Sample.MVVM\\Sample.MVVM.csproj": {
-              "projectPath": "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\Sample.MVVM\\Sample.MVVM.csproj"
+            "C:\\Users\\19814\\Desktop\\GithubFile\\Rhino_Plugin_Sample\\Sample.MVVM\\Sample.MVVM.csproj": {
+              "projectPath": "C:\\Users\\19814\\Desktop\\GithubFile\\Rhino_Plugin_Sample\\Sample.MVVM\\Sample.MVVM.csproj"
             },
-            "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\Sample.ViewModels\\Sample.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\19814\\Desktop\\C#Plugin\\Rhino_Plugin_Sample\\Sample.ViewModels\\Sample.ViewModels.csproj"
+            "C:\\Users\\19814\\Desktop\\GithubFile\\Rhino_Plugin_Sample\\Sample.ViewModels\\Sample.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\19814\\Desktop\\GithubFile\\Rhino_Plugin_Sample\\Sample.ViewModels\\Sample.ViewModels.csproj"
             }
           }
         }
